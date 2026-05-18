@@ -25,13 +25,17 @@
 
 ### 📊 GitHub Stats:
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmanSingh0909&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats-two-peach-44.vercel.app/api?username=AmanSingh0909&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-two-peach-44.vercel.app/api/top-langs/?username=AmanSingh0909&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmanSingh0909&theme=dark)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanSingh0909&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
-
----
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmanSingh0909&theme=dark&hide_border=true" />
+</p>
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmanSingh0909&theme=darkhub&no-frame=true&row=1" />
+</p>
