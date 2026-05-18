@@ -7,6 +7,7 @@
 - 📧 aman.singhy018@gmail.com
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=AmanSingh0909&color=blue)
 
 ### 🤝 Connect with me:
 <p align="left">
