@@ -18,7 +18,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,django,sql,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,django,aws,azure" />
 </p>
 
 ---
