@@ -26,8 +26,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-two-peach-44.vercel.app/api?username=AmanSingh0909&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-two-peach-44.vercel.app/api/top-langs/?username=AmanSingh0909&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-two-peach-44.vercel.app/api?username=AmanSingh0909&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats-two-peach-44.vercel.app/api/top-langs/?username=AmanSingh0909&layout=compact&theme=dark&hide_border=true" height="180em" />
 </p>
 
 ### 🔥 GitHub Streak:
