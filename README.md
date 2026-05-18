@@ -29,7 +29,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmanSingh0909&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanSingh0909&show_icons=true&theme=dark)](https://github.com/AmanSingh0909)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanSingh0909&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
