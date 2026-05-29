@@ -36,7 +36,4 @@
   <img src="https://streak-stats.demolab.com?user=AmanSingh0909&theme=dark&hide_border=true" />
 </p>
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanSingh0909&theme=darkhub&no-frame=true&row=1" />
-</p>
+
