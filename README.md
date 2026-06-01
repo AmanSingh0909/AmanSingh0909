@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1>
-<h3 align="center">IT Enthusiast and Recent Graduate Ready to Apply Technical Expertise and Drive Innovation</h3>
+<h3 align="center">IT Enthusiast and Recent Graduate Ready to Apply Technical Expertise and Drive Innovation.</h3>
 
 ---
 
